@@ -47,7 +47,7 @@ __Jira__
 
 __Robot Framework - selenium library__
   * using Python
-  * Read manual test case and turn automation script
+  * Read manual test case and turn to automation script
 
 ## Courses
 
