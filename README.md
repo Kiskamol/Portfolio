@@ -15,7 +15,7 @@ I got my Bachelor's degree in Business Administration(Technology Management) fro
 Now, I'm learning The Complete 2023 Software Testing Bootcamp course, Its give me a lot of software tesing knowledge. And Since i love to code i want to be an Autometed QA but i have to learn more of the framework and doing more projects 
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://docs.google.com/spreadsheets/d/1qrN2gr9VkMNJ7iMkzpy9HUeLWO8JE-MNJbukakvSZsw/edit#gid=0).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1zIDNuKLvSmvLC44OiKwxYv3yDw3i4VmH/view?usp=sharing).
 
 ## Skills
 
