@@ -22,8 +22,12 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+  * Basic Concepts of Software Testing
+  * Test case & Bug Report Writing
+  * Black-Box Test Techniques
+  * Requirements Review & Test Scenarios Writing using Trello
+  * Basics of Agile methodologies & Agile Testing
+  * White-Box Test Techniques
 
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
@@ -52,19 +56,24 @@ __Robot Framework - selenium library__
 ## Courses
 
 __Software Testing Course__
-  * The Complete 2023 Software Testing Bootcamp (https://www.udemy.com/course/testerbootcamp/), Udemy*  
+- The Complete 2023 Software Testing Bootcamp (https://www.udemy.com/course/testerbootcamp/), Udemy*
 
-__Coding Course__
-  * Complete Python3 Programming, BorntoDev
-  * Intro To JavaScript, BorntoDev
-  * Intermadiate SQL, DataCamp
+__Programming Course__
+  * Complete Python3 Programming, BorntoDev*
+  * Intro To JavaScript, BorntoDev*
+  * Intermadiate SQL, DataCamp*
 
 ## Examples of my work
 
-### Test cases 
+### Test cases & Automation Test Script
 
-- My Project (https://uat.kasikornbank.com/th/business/sme/financial-services/collection-solutions/pages/edc.aspx) 
+- Practising Test case 1 (https://uat.kasikornbank.com/th/business/sme/financial-services/collection-solutions/pages/edc.aspx) 
   * Test cases for check the forms submitting process(normal client). 
     (https://docs.google.com/spreadsheets/d/1qrN2gr9VkMNJ7iMkzpy9HUeLWO8JE-MNJbukakvSZsw/edit#gid=0)
-
-
+    
+- Doppio API Testing (https://www.youtube.com/watch?v=KCUCTy-ghdQ&t=31s)
+  * checking asset api can work (POST/GET/PUT/DELETE) correctly.
+    (https://github.com/Kiskamol/Doppio_API_Testing)
+    
+***I also have other projects that may not directly related to Software Testing like HTML/CSS/JavaScript, React, Python, Pandas but if you want to see it, you can check [my repositories](https://github.com/Kiskamol?tab=repositories).***
+    
