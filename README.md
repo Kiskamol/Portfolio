@@ -24,10 +24,9 @@ You can find examples of the described skills in the [Examples of my work](#exam
 __Manual testing__
   * Basic Concepts of Software Testing
   * Test case & Bug Report Writing
-  * Black-Box Test Techniques
-  * Requirements Review & Test Scenarios Writing using Trello
+  * Black-Box Test Concept
   * Basics of Agile methodologies & Agile Testing
-  * White-Box Test Techniques
+  * White-Box Test Concept
 
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
@@ -70,10 +69,14 @@ __Programming Course__
 - Practising Test case 1 (https://uat.kasikornbank.com/th/business/sme/financial-services/collection-solutions/pages/edc.aspx) 
   * Test cases for check the forms submitting process(normal client). 
     (https://docs.google.com/spreadsheets/d/1qrN2gr9VkMNJ7iMkzpy9HUeLWO8JE-MNJbukakvSZsw/edit#gid=0)
-    
+  * (Automation Test Script using Selenium) for check the forms submitting process(normal client).
+    https://github.com/Kiskamol/Forms_testing
+        
 - Doppio API Testing (https://www.youtube.com/watch?v=KCUCTy-ghdQ&t=31s)
   * checking asset api can work (POST/GET/PUT/DELETE) correctly.
     (https://github.com/Kiskamol/Doppio_API_Testing)
+    
+ 
     
 ***I also have other projects that may not directly related to Software Testing like HTML/CSS/JavaScript, React, Python, Pandas but if you want to see it, you can check [my repositories](https://github.com/Kiskamol?tab=repositories).***
     
